@@ -48,8 +48,8 @@ dimwishlist:item=3514096004&perks=3643424744,1683379515#notes:宗师用
 dimwishlist:item=3669616453&perks=3796465595,3300816228,1275731761#notes:真有人刷这枪吗
 dimwishlist:item=3799980700#notes:啥perk都没区别,别刷了
 dimwishlist:item=3937866388&perks=3230963543,3523296417,1546637391#notes:给牛头术士
-
-
+dimwishlist:item=4095896073&perks=201365942,247725512#notes:速射框架了属于是
+dimwishlist:item=681067419&perks=247725512,3038247973#notes:专家版守夜人
 
 
 
