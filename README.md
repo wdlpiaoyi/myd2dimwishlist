@@ -8,3 +8,5 @@ https://heybox.jxuan.wang/V2
 https://bray.tech/
 
 https://destinyrecipes.com/checklist
+
+https://d2foundry.gg/
