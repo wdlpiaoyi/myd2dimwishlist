@@ -11,4 +11,4 @@ https://destinyrecipes.com/checklist
 
 https://d2foundry.gg/
 
-https://chat.top/
+http://chat.top/
