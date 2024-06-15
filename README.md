@@ -10,3 +10,5 @@ https://destinyrecipes.com/checklist
 https://d2foundry.gg/
 
 http://chat.top/
+
+https://d2.ragden.com/
